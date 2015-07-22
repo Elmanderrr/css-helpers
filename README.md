@@ -21,7 +21,7 @@ Making such
 will give you margin bottom 20 px;
 
 # Part of margin combintions 
-
+``` html
 <style>
 .m-xxs {
   margin: 2px 4px;
@@ -315,4 +315,4 @@ will give you margin bottom 20 px;
   margin-bottom: -30px;
 }
 </style>
-
+```
