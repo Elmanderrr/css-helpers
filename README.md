@@ -1,7 +1,21 @@
 # css-helpers
 bunch of css helpers classes
-```html
 
+
+# example
+It's really easy to use
+
+<style>
+.m-b-md {
+  margin-bottom: 20px;
+}
+</style>
+
+Making such <div class="m-b-md"> Hello world</div> will give you margin bottom 20 px;
+
+# Part of margin combintions 
+
+<style>
 .m-xxs {
   margin: 2px 4px;
 }
@@ -293,4 +307,5 @@ bunch of css helpers classes
 .m-b-n-lg {
   margin-bottom: -30px;
 }
-```
+</style>
+
