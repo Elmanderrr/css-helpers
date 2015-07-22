@@ -1,28 +1,16 @@
 # css-helpers
 bunch of css helpers classes
-```html
-<style>
-	.markdown-body {
-		min-width: 200px;
-		max-width: 790px;
-		margin: 0 auto;
-		padding: 30px;
-	}
-</style>
-<article class="markdown-body">
-	<h1>Unicorns</h1>
-	<p>All the things</p>
-</article>
-```
 
 # example
 It's really easy to use
 
+```hmtl
 <style>
 .m-b-md {
   margin-bottom: 20px;
 }
 </style>
+```
 
 Making such <div class="m-b-md"> Hello world</div> will give you margin bottom 20 px;
 
