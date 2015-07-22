@@ -1,7 +1,6 @@
 # css-helpers
 bunch of css helpers classes
 ```html
-<link rel="stylesheet" href="github-markdown.css">
 <style>
 	.markdown-body {
 		min-width: 200px;
