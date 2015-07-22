@@ -1,6 +1,20 @@
 # css-helpers
 bunch of css helpers classes
-
+```html
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+	.markdown-body {
+		min-width: 200px;
+		max-width: 790px;
+		margin: 0 auto;
+		padding: 30px;
+	}
+</style>
+<article class="markdown-body">
+	<h1>Unicorns</h1>
+	<p>All the things</p>
+</article>
+```
 
 # example
 It's really easy to use
