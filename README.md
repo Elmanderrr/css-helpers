@@ -13,7 +13,12 @@ It's really easy to use
 
 ```
 
-Making such <div class="m-b-md"> Hello world</div> will give you margin bottom 20 px;
+Making such 
+``` html
+	<div class="m-b-md"> Hello world</div>
+```
+
+will give you margin bottom 20 px;
 
 # Part of margin combintions 
 
